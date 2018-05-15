@@ -1,0 +1,16 @@
+html, body {padding:0;margin:0;}
+body {word-wrap:break-word;}
+img {max-width:100%;height:auto;}
+body *{text-shadow:none;}
+a {text-decoration:none;outline:none !important;-webkit-transition: all 100ms ease-in-out;-moz-transition: all 100ms ease-in-out;-ms-transition: all 100ms ease-in-out;-o-transition: all 100ms ease-in-out;transition: all 100ms ease-in-out;}
+
+
+
+#success_message{ display: none;}
+@media only screen and (max-width:1024px) {
+	
+}
+
+@media only screen and (max-width:767px) {
+
+}
